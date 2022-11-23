@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Amar Shakil</title>
+</head>
+<link rel="stylesheet" href="css/styles.css">
+<link rel="icon" href="favicon.ico">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Merriweather&family=Montserrat&family=Sacramento&display=swap" rel="stylesheet">
+
+<body>
+
+  <div class="top-container">
+    <img class="top-cloud" src="images/cloud.png" alt="cloud image">
+    <h1>I'm Amar</h1>
+    <h2>Senior Process Executive & Aspring Computer <span class="pro">Pro</span>grammer</h2>
+    <img class="bottom-cloud" src="images/cloud.png" alt="cloudimage" />
+    <img class="mountain" src="images/mountain.png" alt="mountainimage">
+
+  </div>
+
+
+  <div class="middle-container">
+    <div class="profile">
+      <img class="amarimage"src="images/Amar.png" alt="Amar Profile Picture">
+      <h2 class="hello"><strong><em>Hello!</em></strong> </h2>
+      <p class="bio">I am an aspiring computer programmer with an intermediate knowledge in full stack web development. My passion and interest in computer programming stems from my prior experience working for a tech company, this kindled the fire 🔥 and flamed
+        my passion ❤️‍🔥 in learning and becoming a computer programmer. <br> <br>Currently i'm a Senior Process Executive at Cognizant, experienced in balancing customer service and support objectives with innovative process improvement and
+        execution. Client-focused and solutions-oriented with strong analytical mindset to deliver value. Good experience at fostering relationships with customers and clients for sustained business growth.</p>
+    </div>
+    <hr>
+    <div class="skills">
+      <h2>Key Skills</h2>
+      <div class="skill-row">
+        <img class="netdev" src="images/development.png" alt="net dev"> <br> <br>
+
+
+        <h3 class="workment">Network Development</h3>
+        <p class="netdevdesc">I have great experience in network development, developing and establishing new contacts, building new relationships with partners and potential new clients, stemming from my experience in founding and growing an events company in Krakow
+          and working in client acquistion for a social media marketing company.
+        </div>
+        <div class="skill-row">
+          <img class="leadpros" src="images/prospect.png" alt="lead pros">
+          <h3>Lead Development</h3>
+          <p class="leadpros-desc">As a technology growth executive I attracted new leads to the business folowing a process that built visibility, credibility, trust and interest from potential leads in our products and services. I converted potential leads into high
+            quality prospects, and drove this traffic into the sales pipeline. </p>
+<hr>
+        </div>
+          <div class="other-skills">
+            <h2 class="skill-up"><strong>Other Skills</strong></h2><br><br>
+            <img class="pencil" src="images/pencil.png" alt="pencil">
+            <img class="skills" src="images/skills.png" alt="Skill">
+
+            <table>
+
+            <tr>
+              <td>Strategic planning</td>
+              <td>&#9733;&#9733;&#9733;&#9733;</td>
+              <td>Revenue Generation</td>
+              <td>&#9733;&#9733;&#9733;&#9733;</td>
+            </tr>
+            <tr>
+              <td>Performance Improvement</td>
+              <td>&#9733;&#9733;&#9733;&#9733;&#9733;</td>
+              <td>Account Development</td>
+              <td>&#9733;&#9733;&#9733;&#9733;&#9733;</td>
+            </tr>
+            <tr>
+              <td>Interpersonal Communication skills</td>
+              <td>&#9733;&#9733;&#9733;&#9733;</td>
+              <td>Attention to Detail</td>
+              <td>&#9733;&#9733;&#9733;&#9733;&#9733;</td>
+            </tr>
+            <tr>
+              <td>Customer Service Support</td>
+              <td>&#9733;&#9733;&#9733;&#9733;&#9733;</td>
+              <td>Multitasking and Prioritization</td>
+              <td>&#9733;&#9733;&#9733;&#9733;&#9733;</td>
+            </tr>
+            <tr>
+              <td>Verbal & Written Communication</td>
+              <td>&#9733;&#9733;&#9733;&#9733;&#9733;</td>
+              <td>Analytical & Methodical</td>
+              <td>&#9733;&#9733;&#9733;&#9733;&#9733;</td>
+            </tr>
+            <tr>
+              <td>Business Development</td>
+              <td>&#9733;&#9733;&#9733;&#9733;&#9733;</td>
+              <td>Leadership</td>
+              <td>&#9733;&#9733;&#9733;&#9733;&#9733;</td>
+            </tr>
+            <tr>
+              <td>Marketing</td>
+              <td>&#9733;&#9733;&#9733;&#9733;&#9733;</td>
+              <td>CRM Systems</td>
+              <td>&#9733;&#9733;&#9733;</td>
+            </tr>
+            <tr>
+              <td>Project Management</td>
+              <td>&#9733;&#9733;&#9733;&#9733;&#9733;</td>
+              <td>Computer Programming</td>
+              <td>&#9733;&#9733;</td>
+
+          </table>
+          </div>
+
+        </div>
+      </div>
+      <hr>
+      <div>
+        <h2>Get In Touch</h2>
+
+
+        <a class="btn" href="amar.d.shakil@gmail.com">CONTACT ME</a> <br><br>
+      </div>
+    
+    <div class="bottom-container">
+      <a class="footer-link" href="https://www.linkedin.com/in/amar-shakil-b829237b/">LinkedIn</a> <br> <br>
+      <a class="footer-link" href="https://www.instagram.com/amar92ds/">Instagram</a> <br> <br>
+      <a class="footer-link" href="https://www.facebook.com/amar.shakil/">Facebook</a> <br>
+      <p>© Amar Shakil 2022.</p>
+    </div>
+
+
+
+
+
+
+</body>
+
+</html>
